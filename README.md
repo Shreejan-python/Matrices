@@ -1,1 +1,1 @@
-# This is a python program to add two matrices
+# This is a python program to add and subtract two matrices
